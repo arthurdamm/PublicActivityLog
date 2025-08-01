@@ -8,3 +8,4 @@
 [2025-07-30 12:59:34] Update config for more logging from binaries
 [2025-07-30 15:36:56] More config fixes for Log
 [2025-07-30 15:48:44] Fix crash due to bad memory access
+[2025-07-31 20:34:03] Initial ship movement
