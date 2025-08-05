@@ -10,3 +10,4 @@
 [2025-07-30 15:48:44] Fix crash due to bad memory access
 [2025-07-31 20:34:03] Initial ship movement
 [2025-08-03 14:21:02] Investigate ISM animation smearing
+[2025-08-04 21:33:38] Initial commit
