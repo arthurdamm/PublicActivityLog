@@ -22,3 +22,4 @@
 [2025-08-07 12:53:11] <HexSpace> Fix hex highlight toggle on click
 [2025-08-07 13:50:12] <HexSpace> Add cleanup script
 [2025-08-07 15:10:32] <HexSpace> Initial camera follow hex click
+[2025-08-07 15:28:46] <HexSpace> Clean up BoxCollider/TextMesh NOT spawning/destroy
