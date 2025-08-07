@@ -15,3 +15,4 @@
 [2025-08-05 14:55:11] <cube-game-tutorial> Some game objects, scripts, and use old input settings
 [2025-08-05 16:23:49] <cube-game-tutorial> Finish tutorial coin collection
 [2025-08-06 15:29:37] <HexSpace> Add gizmos and debug grid layout
+[2025-08-06 18:39:25] <HexSpace> Print axial coords on hexes for debug
