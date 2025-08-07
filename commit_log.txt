@@ -18,3 +18,4 @@
 [2025-08-06 18:39:25] <HexSpace> Print axial coords on hexes for debug
 [2025-08-06 21:46:26] <HexSpace> Fix & refactor HexMath, use ScriptableObject Config
 [2025-08-06 22:12:26] <HexSpace> Test Scene Config Instance
+[2025-08-06 22:40:26] <HexSpace> Display grid in editor scene
