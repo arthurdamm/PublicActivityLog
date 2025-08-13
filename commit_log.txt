@@ -31,3 +31,4 @@
 [2025-08-12 20:29:08] <HexSpace> Clean up SelectionManager
 [2025-08-12 20:53:28] <HexSpace> Selection logic removed from ShipUnit
 [2025-08-12 22:39:35] <HexSpace> Rotate mesh and rotate ship to adjacent hex
+[2025-08-13 12:55:20] <HexSpace> Adjust grid camera height
