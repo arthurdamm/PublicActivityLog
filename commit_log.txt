@@ -29,3 +29,4 @@
 [2025-08-09 15:02:45] <HexSpace> Copilot movement branch
 [2025-08-12 19:35:55] <HexSpace> Ship movement
 [2025-08-12 20:29:08] <HexSpace> Clean up SelectionManager
+[2025-08-12 20:53:28] <HexSpace> Selection logic removed from ShipUnit
