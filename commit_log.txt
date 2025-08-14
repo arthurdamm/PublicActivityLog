@@ -33,3 +33,4 @@
 [2025-08-12 22:39:35] <HexSpace> Rotate mesh and rotate ship to adjacent hex
 [2025-08-13 12:55:20] <HexSpace> Adjust grid camera height
 [2025-08-13 17:00:19] <HexSpace> Include Scripts/Library
+[2025-08-13 17:05:02] <HexSpace> Flip axial z-axis to match redblob
