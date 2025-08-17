@@ -45,3 +45,4 @@
 [2025-08-17 15:30:52] <HexSpace> Add PlayMode tests
 [2025-08-17 15:33:20] <HexSpace> Delete old scene
 [2025-08-17 15:34:07] <HexSpace> Add BootFramerate script to unlock fps
+[2025-08-17 15:35:07] <HexSpace> Settings changes for Mac, Android, Web builds
