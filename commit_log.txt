@@ -43,3 +43,4 @@
 [2025-08-16 22:31:11] <cube-game-tutorial> Test framework ex 6 SetUp & TearDown
 [2025-08-16 23:17:05] <cube-game-tutorial> Test framework ex 7 PlayMode tests
 [2025-08-17 15:30:52] <HexSpace> Add PlayMode tests
+[2025-08-17 15:33:20] <HexSpace> Delete old scene
