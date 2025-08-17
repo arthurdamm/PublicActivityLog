@@ -40,3 +40,4 @@
 [2025-08-16 20:04:32] <cube-game-tutorial> Test Framework Ex 4
 [2025-08-16 21:53:39] <cube-game-tutorial> Test framework ex 5 Asserting Logs
 [2025-08-16 21:56:43] <cube-game-tutorial> Clean up Arrange, Act, Assert paradigm
+[2025-08-16 22:31:11] <cube-game-tutorial> Test framework ex 6 SetUp & TearDown
