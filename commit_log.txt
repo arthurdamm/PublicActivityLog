@@ -37,3 +37,4 @@
 [2025-08-13 22:03:33] <HexSpace> Fix Z flip on r-coord axial to match standard
 [2025-08-13 22:05:31] <HexSpace> Change asmdef for runtime/tests
 [2025-08-16 19:19:38] <cube-game-tutorial> Initial update
+[2025-08-16 20:04:32] <cube-game-tutorial> Test Framework Ex 4
