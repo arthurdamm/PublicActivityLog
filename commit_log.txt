@@ -50,3 +50,4 @@
 [2025-08-17 19:10:41] <HexSpace> Install Timelines
 [2025-08-17 22:01:17] <HexSpace> New input system using cinemachine
 [2025-08-18 22:41:02] <input-tutorials> Initial fresh proj commit
+[2025-08-18 22:47:16] <input-tutorials> Initial full commit
