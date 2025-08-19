@@ -54,3 +54,4 @@
 [2025-08-18 22:55:33] <input-tutorials> Initial full commit
 [2025-08-18 22:59:26] <input-tutorials> Install AI
 [2025-08-18 23:01:52] <input-tutorials> Install Cinemachine
+[2025-08-18 23:03:28] <input-tutorials> Install tutorial assets
