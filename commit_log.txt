@@ -59,3 +59,4 @@
 [2025-08-20 15:18:23] <input-tutorials> Redo exercises for memory
 [2025-08-21 12:31:14] <input-tutorials> Import smooth strategy controller
 [2025-08-21 14:45:01] <input-tutorials> Add StrategyController.Camera panning
+[2025-08-21 15:49:57] <input-tutorials> Add StrategyController.Camera Rotation via events
