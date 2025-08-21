@@ -57,3 +57,4 @@
 [2025-08-18 23:03:28] <input-tutorials> Install tutorial assets
 [2025-08-19 20:53:28] <input-tutorials> Ex 2 Input sys and visualizers
 [2025-08-20 15:18:23] <input-tutorials> Redo exercises for memory
+[2025-08-21 12:31:14] <input-tutorials> Import smooth strategy controller
