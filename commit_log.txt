@@ -61,3 +61,4 @@
 [2025-08-21 14:45:01] <input-tutorials> Add StrategyController.Camera panning
 [2025-08-21 15:49:57] <input-tutorials> Add StrategyController.Camera Rotation via events
 [2025-08-21 22:10:42] <input-tutorials> Add StrategyController.Camera Zoom and screen-edge pan
+[2025-08-21 22:53:29] <input-tutorials> Add StrategyController mouse dragging
