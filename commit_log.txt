@@ -63,3 +63,4 @@
 [2025-08-21 22:10:42] <input-tutorials> Add StrategyController.Camera Zoom and screen-edge pan
 [2025-08-21 22:53:29] <input-tutorials> Add StrategyController mouse dragging
 [2025-08-27 12:41:19] <input-tutorials> Redo non-cine RTS controller
+[2025-08-27 21:52:24] <input-tutorials> Finish non-cine controller redo
