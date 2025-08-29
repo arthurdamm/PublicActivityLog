@@ -66,3 +66,4 @@
 [2025-08-27 21:52:24] <input-tutorials> Finish non-cine controller redo
 [2025-08-27 22:47:18] <HexSpace> Add redone non-cine controller
 [2025-08-28 19:34:06] <HexSpace> Integrate cinemachine w/ scripted strategy cam
+[2025-08-28 22:31:49] <HexSpace> Add timeline playable
