@@ -67,3 +67,4 @@
 [2025-08-27 22:47:18] <HexSpace> Add redone non-cine controller
 [2025-08-28 19:34:06] <HexSpace> Integrate cinemachine w/ scripted strategy cam
 [2025-08-28 22:31:49] <HexSpace> Add timeline playable
+[2025-08-29 20:29:15] <HexSpace> Add cinematic orbital camera via timeline
