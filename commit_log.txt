@@ -75,3 +75,4 @@
 [2026-02-23 22:59:58] <Fun> Add camera, fix zoom
 [2026-02-23 23:00:40] <Fun> Add beam and FPS
 [2026-02-23 23:00:55] <Fun> Add steering, facing, circling
+[2026-02-24 20:58:57] <Fun> Build proj
