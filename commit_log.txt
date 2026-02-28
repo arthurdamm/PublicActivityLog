@@ -77,3 +77,4 @@
 [2026-02-23 23:00:55] <Fun> Add steering, facing, circling
 [2026-02-24 20:58:57] <Fun> Build proj
 [2026-02-24 22:09:42] <Fun> Remove old code, lastFire array, logs
+[2026-02-27 17:03:05] <Fun> Add SteeringMoverRing for other orbits
