@@ -78,3 +78,4 @@
 [2026-02-24 20:58:57] <Fun> Build proj
 [2026-02-24 22:09:42] <Fun> Remove old code, lastFire array, logs
 [2026-02-27 17:03:05] <Fun> Add SteeringMoverRing for other orbits
+[2026-02-28 16:39:48] <Fun> Make common objs fabs for reuse
