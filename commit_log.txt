@@ -84,3 +84,4 @@
 [2026-03-02 16:20:42] <Fun> Fix Beam curve, update positions
 [2026-03-07 13:12:56] <Fun> Add SpatialHash, Assemblies, tests
 [2026-03-07 14:06:07] <Fun> Fix previous push
+[2026-03-07 15:25:20] <Fun> Settings changes
