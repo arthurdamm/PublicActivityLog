@@ -82,3 +82,4 @@
 [2026-02-28 16:42:26] <Fun> Add gizmo transform debugger
 [2026-03-01 15:29:48] <Fun> Add KeepLookAt & OrbitalLook
 [2026-03-02 16:20:42] <Fun> Fix Beam curve, update positions
+[2026-03-07 13:12:56] <Fun> Add SpatialHash, Assemblies, tests
