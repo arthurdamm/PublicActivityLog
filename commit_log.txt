@@ -97,3 +97,4 @@
 [2026-03-11 13:11:40] <Fun> Add ParticleSys explosion
 [2026-03-11 19:33:50] <Fun> Add Explosion prefab
 [2026-03-11 19:34:42] <Fun> Add kinematic rb's, trigger colliders to explode
+[2026-03-11 23:30:43] <Fun> Debug collisions
