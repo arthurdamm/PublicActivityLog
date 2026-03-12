@@ -95,3 +95,4 @@
 [2026-03-10 19:00:29] <Fun> Initial Particle System explosion
 [2026-03-10 19:00:45] <Fun> Clean up logs, fabs, swarm a bit
 [2026-03-11 13:11:40] <Fun> Add ParticleSys explosion
+[2026-03-11 19:33:50] <Fun> Add Explosion prefab
