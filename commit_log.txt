@@ -100,3 +100,4 @@
 [2026-03-11 23:30:43] <Fun> Debug collisions
 [2026-03-12 14:38:29] <Fun> Root namespace in asmdef
 [2026-03-12 15:22:20] <LearnByTesting> Fresh proj commit
+[2026-03-12 15:36:03] <LearnByTesting> Add editor test folder
