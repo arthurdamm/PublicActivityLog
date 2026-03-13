@@ -105,3 +105,4 @@
 [2026-03-12 15:42:41] <LearnByTesting> Add default test script
 [2026-03-12 15:56:25] <LearnByTesting> Add empty monobehaviour to see if Rider works
 [2026-03-12 16:59:21] <LearnByTesting> Include Rider .idea files
+[2026-03-12 17:04:49] <LearnByTesting> Add notes, include Rider csproj fail
