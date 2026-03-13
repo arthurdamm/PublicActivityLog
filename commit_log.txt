@@ -107,3 +107,4 @@
 [2026-03-12 16:59:21] <LearnByTesting> Include Rider .idea files
 [2026-03-12 17:04:49] <LearnByTesting> Add notes, include Rider csproj fail
 [2026-03-12 22:49:46] <LearnByTesting> Add tuple tests
+[2026-03-13 13:50:20] <LearnByTesting> Add basic struct tests
