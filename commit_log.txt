@@ -114,3 +114,4 @@
 [2026-04-09 18:20:23] <Fun> Initial swarm separation
 [2026-04-28 20:13:59] <RubiksCube> Initial commit
 [2026-04-28 23:38:32] <RubiksCube> Spawn cube
+[2026-04-29 22:03:33] <RubiksCube> Add assembly defs
