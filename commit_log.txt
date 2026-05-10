@@ -115,3 +115,4 @@
 [2026-04-28 20:13:59] <RubiksCube> Initial commit
 [2026-04-28 23:38:32] <RubiksCube> Spawn cube
 [2026-04-29 22:03:33] <RubiksCube> Add assembly defs
+[2026-05-10 16:36:02] <RubiksCube> Partial rotation
