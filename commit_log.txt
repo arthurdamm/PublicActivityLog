@@ -118,3 +118,4 @@
 [2026-05-10 16:36:02] <RubiksCube> Partial rotation
 [2026-05-10 21:30:14] <RubiksCube> Basic 3D 90deg rotation funcs and tests
 [2026-05-11 22:34:09] <RubiksCube> Add CubieGridMapper
+[2026-05-13 19:49:40] <RubiksCube> Remap z w/ y for Unity, inital animation que
