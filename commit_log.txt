@@ -121,3 +121,4 @@
 [2026-05-13 19:49:40] <RubiksCube> Remap z w/ y for Unity, inital animation que
 [2026-05-13 20:19:09] <RubiksCube> Handle negative degrees to rotate
 [2026-05-17 03:44:47] <RubiksCube> Implement InputSystem cube interactions
+[2026-05-18 15:09:51] <RubiksCube> Fix localspace face rotations, add Look arrow keys
