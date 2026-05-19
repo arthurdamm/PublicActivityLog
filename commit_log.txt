@@ -122,3 +122,4 @@
 [2026-05-13 20:19:09] <RubiksCube> Handle negative degrees to rotate
 [2026-05-17 03:44:47] <RubiksCube> Implement InputSystem cube interactions
 [2026-05-18 15:09:51] <RubiksCube> Fix localspace face rotations, add Look arrow keys
+[2026-05-18 17:16:27] <RubiksCube> Fix local spawn positions, add Reset action
