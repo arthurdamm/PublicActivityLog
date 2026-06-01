@@ -127,3 +127,4 @@
 [2026-05-27 22:16:21] <RubiksCube> Add FaceIdentifier class
 [2026-05-31 14:17:33] <RubiksCube> Pointer actions, prepare for more UI
 [2026-05-31 20:20:32] <RubiksCube> Refactor as UserController
+[2026-05-31 20:23:13] <RubiksCube> Move InputActionAssets, set Class File path
