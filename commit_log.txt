@@ -131,3 +131,4 @@
 [2026-05-31 21:51:23] <RubiksCube> Initial camera Zoom
 [2026-06-01 00:04:02] <RubiksCube> Slightly improved zoom
 [2026-06-01 13:52:40] <RubiksCube> Initial Pointer RayCast
+[2026-06-02 15:17:29] <RubiksCube> Add CubeLayerGeneral
