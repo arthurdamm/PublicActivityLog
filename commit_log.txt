@@ -134,3 +134,4 @@
 [2026-06-02 15:17:29] <RubiksCube> Add CubeLayerGeneral
 [2026-06-02 15:20:22] <RubiksCube> Improve folder structure
 [2026-06-02 15:38:31] <RubiksCube> Move input methods to UserController
+[2026-06-02 17:28:27] <RubiksCube> CubeLayer uses Index not Offset
