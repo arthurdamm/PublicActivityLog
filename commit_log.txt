@@ -137,3 +137,4 @@
 [2026-06-02 17:28:27] <RubiksCube> CubeLayer uses Index not Offset
 [2026-06-02 22:06:25] <RubiksCube> Initial Model + Builder refactor
 [2026-06-02 22:19:20] <RubiksCube> Reconnect current features
+[2026-06-03 19:27:09] <RubiksCube> Refactor rotation for new layer
