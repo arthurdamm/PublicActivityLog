@@ -142,3 +142,4 @@
 [2026-06-04 17:36:55] <RubiksCube> Clean up dummy gameobjects
 [2026-06-04 17:59:22] <RubiksCube> Fix even/odd cubeSize offsets
 [2026-06-04 18:27:32] <RubiksCube> Remove CubeLayerGeneral artifacts
+[2026-06-10 19:14:30] <RubiksCube> Remap position to fix float drift
