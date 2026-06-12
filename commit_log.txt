@@ -144,3 +144,4 @@
 [2026-06-04 18:27:32] <RubiksCube> Remove CubeLayerGeneral artifacts
 [2026-06-10 19:14:30] <RubiksCube> Remap position to fix float drift
 [2026-06-10 19:28:24] <RubiksCube> Initial BasicDrag outline
+[2026-06-11 23:18:00] <RubiksCube> Fix cubie floating point drift
