@@ -151,3 +151,4 @@
 [2026-07-10 15:54:47] <RubiksCube> Add FindMatchingDirection() plus test
 [2026-07-20 22:21:56] <RubiksCube> Add dragged cubie index resolution
 [2026-07-20 23:04:37] <RubiksCube> Add CubeDirection
+[2026-07-20 23:04:51] <RubiksCube> Add ToStrings to CubeLayer structs
