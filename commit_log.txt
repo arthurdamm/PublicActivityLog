@@ -152,3 +152,4 @@
 [2026-07-20 22:21:56] <RubiksCube> Add dragged cubie index resolution
 [2026-07-20 23:04:37] <RubiksCube> Add CubeDirection
 [2026-07-20 23:04:51] <RubiksCube> Add ToStrings to CubeLayer structs
+[2026-07-20 23:08:38] <RubiksCube> Separate CompilerServicesFix for init prop accessor
