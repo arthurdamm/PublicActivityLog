@@ -149,3 +149,4 @@
 [2026-06-12 21:17:09] <RubiksCube> Add addition code guards
 [2026-06-12 22:21:02] <RubiksCube> Initial CubeRayCaster
 [2026-07-10 15:54:47] <RubiksCube> Add FindMatchingDirection() plus test
+[2026-07-20 22:21:56] <RubiksCube> Add dragged cubie index resolution
