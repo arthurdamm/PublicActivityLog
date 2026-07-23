@@ -157,3 +157,4 @@
 [2026-07-21 15:48:29] <RubiksCube> Refactor FindMatchingDirections into CubeDirectionsResolver
 [2026-07-22 18:13:15] <RubiksCube> Add CubeDirectionsResolver methods for drag & axes, clean up tests
 [2026-07-22 18:22:30] <RubiksCube> Try to fix Test folder namespace errors
+[2026-07-22 18:52:01] <RubiksCube> add GetRemaningAxes tests, clean up test files
