@@ -159,3 +159,4 @@
 [2026-07-22 18:22:30] <RubiksCube> Try to fix Test folder namespace errors
 [2026-07-22 18:52:01] <RubiksCube> add GetRemaningAxes tests, clean up test files
 [2026-07-22 23:15:25] <RubiksCube> Initial drag to rotation, not quite right
+[2026-07-25 14:57:18] <RubiksCube> Map projectedDrag to local, fixing drag to rotation after transformation
